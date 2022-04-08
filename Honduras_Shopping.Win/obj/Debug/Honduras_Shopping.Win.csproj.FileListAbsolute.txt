@@ -1,0 +1,32 @@
+C:\Users\Carlos Lagos\Desktop\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\Honduras_Shopping.Win.exe.config
+C:\Users\Carlos Lagos\Desktop\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\Honduras_Shopping.Win.exe
+C:\Users\Carlos Lagos\Desktop\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\Honduras_Shopping.Win.pdb
+C:\Users\Carlos Lagos\Desktop\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\EntityFramework.dll
+C:\Users\Carlos Lagos\Desktop\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos Lagos\Desktop\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\Honduras_Shopping.BL.dll
+C:\Users\Carlos Lagos\Desktop\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\Honduras_Shopping.BL.pdb
+C:\Users\Carlos Lagos\Desktop\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\EntityFramework.xml
+C:\Users\Carlos Lagos\Desktop\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos Lagos\Desktop\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\obj\Debug\Honduras_Shopping.Win.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Lagos\Desktop\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\obj\Debug\Honduras_Shopping.Win.Form1.resources
+C:\Users\Carlos Lagos\Desktop\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\obj\Debug\Honduras_Shopping.Win.Form2.resources
+C:\Users\Carlos Lagos\Desktop\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\obj\Debug\Honduras_Shopping.Win.Properties.Resources.resources
+C:\Users\Carlos Lagos\Desktop\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\obj\Debug\Honduras_Shopping.Win.csproj.GenerateResource.Cache
+C:\Users\Carlos Lagos\Desktop\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\obj\Debug\Honduras_Shopping.Win.exe
+C:\Users\Carlos Lagos\Desktop\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\obj\Debug\Honduras_Shopping.Win.pdb
+C:\Users\Carlos Lagos\Desktop\Proyectos L4\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\Honduras_Shopping.Win.exe.config
+C:\Users\Carlos Lagos\Desktop\Proyectos L4\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\Honduras_Shopping.Win.exe
+C:\Users\Carlos Lagos\Desktop\Proyectos L4\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\Honduras_Shopping.Win.pdb
+C:\Users\Carlos Lagos\Desktop\Proyectos L4\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\EntityFramework.dll
+C:\Users\Carlos Lagos\Desktop\Proyectos L4\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos Lagos\Desktop\Proyectos L4\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\Honduras_Shopping.BL.dll
+C:\Users\Carlos Lagos\Desktop\Proyectos L4\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\Honduras_Shopping.BL.pdb
+C:\Users\Carlos Lagos\Desktop\Proyectos L4\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\EntityFramework.xml
+C:\Users\Carlos Lagos\Desktop\Proyectos L4\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos Lagos\Desktop\Proyectos L4\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\obj\Debug\Honduras_Shopping.Win.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Lagos\Desktop\Proyectos L4\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\obj\Debug\Honduras_Shopping.Win.Form1.resources
+C:\Users\Carlos Lagos\Desktop\Proyectos L4\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\obj\Debug\Honduras_Shopping.Win.Form2.resources
+C:\Users\Carlos Lagos\Desktop\Proyectos L4\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\obj\Debug\Honduras_Shopping.Win.Properties.Resources.resources
+C:\Users\Carlos Lagos\Desktop\Proyectos L4\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\obj\Debug\Honduras_Shopping.Win.csproj.GenerateResource.Cache
+C:\Users\Carlos Lagos\Desktop\Proyectos L4\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\obj\Debug\Honduras_Shopping.Win.exe
+C:\Users\Carlos Lagos\Desktop\Proyectos L4\Lenguaje_4\Lenguaje_4\Honduras_Shopping.Win\obj\Debug\Honduras_Shopping.Win.pdb
